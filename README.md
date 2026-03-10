@@ -1,4 +1,9 @@
 \# Cancer Detection Using Machine Learning
+## Live App
+
+Try the deployed application here:
+
+https://cancer-detection-ml-jorhpbgkzxekdap5hmssgr.streamlit.app/
 
 
 
@@ -74,5 +79,6 @@ Confusion Matrix:
 Adi
 
 Bioinformatics | Machine Learning | Healthcare AI
+
 
 
