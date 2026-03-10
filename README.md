@@ -56,9 +56,16 @@ Scikit-learn
 
 
 
-\## Results
+ Results
 
 Model accuracy: 96%
+
+##
+Model Evaluation
+
+Confusion Matrix:
+
+![Confusion Matrix](confusion_matrix.png)
 
 
 
@@ -67,4 +74,5 @@ Model accuracy: 96%
 Adi
 
 Bioinformatics | Machine Learning | Healthcare AI
+
 
